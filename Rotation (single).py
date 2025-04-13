@@ -1,3 +1,4 @@
+#Made by MScript 2024
 def encrypt(text,s):
 
     result = ""
