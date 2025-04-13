@@ -1,3 +1,4 @@
+#Made by MScript 2024
 #Modulo getal
 mod1 = int(input("modulo:"))
 
