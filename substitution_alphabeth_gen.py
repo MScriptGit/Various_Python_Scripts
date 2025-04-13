@@ -1,3 +1,4 @@
+#Made by MScript 2024
 #substitution alfabeth generator with key
 
 #import ascii uppercase alphabet
