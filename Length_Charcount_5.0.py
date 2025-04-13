@@ -1,3 +1,4 @@
+#Made by MScript 2024
 #geeft lengte van alle woorden in een string
 
 #import ascii uppercase alphabet
